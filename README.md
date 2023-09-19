@@ -1,3 +1,3 @@
 ## Front-End Development
 
-![pic](projects3.png)
+![projects3](projects3.jpg)
