@@ -1,0 +1,14 @@
+{
+  "name": "react-2---authorization-form",
+  "version": "1.0.0",
+  "description": "https://69ed03e043384becb22712cac80a445a.cc-propeller.cloud/?#",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

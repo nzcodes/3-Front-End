@@ -1,0 +1,1 @@
+- first create Header component returning html tags and props placeholder for getting data. Then within card component return Header  component/func with username attribute.

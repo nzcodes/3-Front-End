@@ -1,0 +1,37 @@
+.UserPlaylist {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(256, 256, 256, 0.8);
+  }
+  
+  .UserPlaylist-action {
+    cursor: pointer;
+    padding: .5rem;
+    font-size: 1.05rem;
+    transition: color .25s;
+    border: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    color: #fff;
+  }
+  
+  .UserPlaylist-action:hover {
+    color: rgba(265, 265, 265, .5);
+  }
+  
+  .UserPlaylist-information {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 72px;
+  }
+  
+  .UserPlaylist-information h3 {
+    margin-bottom: .22rem;
+  }
+  
+  .UserPlaylist-information p {
+    font-size: .83rem;
+    font-weight: 300;
+    color: rgba(256, 256, 256, 0.8);
+  }

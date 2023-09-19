@@ -1,0 +1,16 @@
+{
+  "name": "animal-fun-facts",
+  "version": "1.0.0",
+  "description": "https://cfb6809488c24433a6000d983141943c.cc-propeller.cloud/",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env-standalone": "^7.8.3"
+  },
+  "devDependencies": {}
+}
